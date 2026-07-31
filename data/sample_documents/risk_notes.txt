@@ -1,0 +1,26 @@
+These risk notes describe a fictional company, Northbridge Analytics, and a
+fictional regulatory regime. All figures and named regulations are invented
+for demonstration purposes only.
+
+Customer concentration is flagged as a notable risk: the top 10 customers
+are estimated to represent 34 percent of Northbridge Analytics' annual
+recurring revenue, meaning the loss of even two or three large accounts
+could materially affect reported growth rates.
+
+Key-person dependency is also flagged. Several enterprise-sales
+relationships are described internally as owned personally by the founding
+CEO, Dana Whitfield, rather than by the broader sales organization, which
+could pose continuity risk if that individual were to depart.
+
+A fictional piece of legislation referred to internally as the Data
+Handling Act of 2025 is noted as a compliance consideration for companies
+in this space. Internal estimates suggest compliance work could increase
+annual compliance-related costs by approximately 1.5 million dollars if the
+legislation is enacted as currently drafted, though the notes stress this
+figure is a preliminary internal estimate rather than a finalized budget.
+
+Competitive risk is described as rising, largely from open-source
+embedded-analytics toolkits that compete aggressively on price. Combined
+with the 9 percent gross logo churn rate reported in company notes, the
+risk notes recommend monitoring renewal pricing discipline closely over
+the next two fiscal years.

@@ -1,0 +1,28 @@
+The following market notes describe a fictional embedded-analytics software
+market and are provided for demonstration purposes only; all figures are
+invented and do not describe any real company or industry report.
+
+Analysts covering the fictional embedded-analytics category estimate the
+total addressable market at 8.2 billion dollars, expanding at a compound
+annual growth rate of 14 percent over the next five years. Growth is
+attributed to software vendors increasingly embedding analytics directly
+into their products rather than asking end users to adopt a separate
+business-intelligence tool.
+
+Three competitor categories are commonly discussed in this fictional
+market. The first is large horizontal business-intelligence platforms
+adding embeddable components. The second is open-source charting and
+dashboard toolkits, which compete primarily on cost and developer control.
+The third is specialist embedded-analytics vendors, the category Northbridge
+Analytics is assumed to compete in for purposes of this demonstration.
+
+Buyer research summarized in these notes suggests that 62 percent of
+enterprise software buyers now rank integration depth and time-to-embed as
+a top-three purchase criterion, ahead of raw dashboard customization. This
+is described as a meaningful shift from three years earlier, when pricing
+was the dominant purchase criterion cited by buyers.
+
+Pricing pressure remains a theme: average contract values in the fictional
+embedded-analytics category are estimated to have declined 6 percent over
+the last two years even as the overall market has grown, consistent with
+increased competition from open-source alternatives.

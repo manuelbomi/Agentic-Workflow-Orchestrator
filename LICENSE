@@ -1,0 +1,34 @@
+MIT License
+
+Copyright (c) 2026 Agentic Workflow Orchestrator contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+## Notice
+
+This repository is a reference / portfolio-grade implementation demonstrating
+a multi-agent orchestration pattern -- with a permissioned tool interface and
+a mandatory human-in-the-loop review gate -- for AI-enabled research and
+analysis workflows in advisory and professional-services settings. The
+included demo runs fully offline against fictional sample documents using
+deterministic stand-ins for LLM calls; it can be used as a deployable
+starting point by advisory or consulting firms, but any real deployment must
+connect a production-grade LLM, be evaluated against the firm's own quality
+and citation-accuracy bar, and keep a qualified human reviewer in the loop
+before client delivery. Outputs are not a substitute for professional advice.
