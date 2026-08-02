@@ -36,7 +36,7 @@ mechanic.
 ```mermaid
 flowchart TD
     docs[("Source documents\ndata/sample_documents/*.txt")]
-    researcher["researcher_agent\n(extract source-attributed findings)"]
+    researcher["researcher_agent\n(extract source-attributed findings  )"]
     analyst["analyst_agent\n(themes, risks/opportunities,\nscored recommendation)"]
     reviewer{{"reviewer_agent\nPAUSE_FOR_HUMAN\n(approve / reject gate)"}}
     writer["writer_agent\n(cited Markdown memo)"]
