@@ -15,7 +15,7 @@ make.
 
 ## Why this matters for professional-services firms
 
-Advisory work is fundamentally document-and-research-heavy: due diligence,
+Professional services such as advisory work is fundamentally document-and-research-heavy: due diligence,
 market research, regulatory research, and client memos all start from a
 pile of source material that has to be read, synthesized, and turned into
 a defensible, cited written product. A well-governed multi-agent pipeline
