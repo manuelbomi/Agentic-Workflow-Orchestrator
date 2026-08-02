@@ -13,7 +13,7 @@ Every part of the shipped demo runs fully offline, with clearly-labeled
 deterministic stand-ins for the LLM calls a production deployment would
 make.
 
-## Why this matters for advisory and professional-services firms
+## Why this matters for professional-services firms
 
 Advisory work is fundamentally document-and-research-heavy: due diligence,
 market research, regulatory research, and client memos all start from a
